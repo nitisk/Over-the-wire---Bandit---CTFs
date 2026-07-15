@@ -1,2 +1,2 @@
-# Over-the-wire---Bandit---CTFs-
+# Over the wire - Bandit - CTFs
 My notes from "bandit" CTFs of "over the wire"
